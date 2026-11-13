@@ -98,6 +98,7 @@ Pure-Canvas/
 
 - GitHub: [@Aryan-1625](https://github.com/Aryan-1625)
 
----
+## Project URL
+- https://aryan-1625-canvas-studio.purecanvas.workers.dev/
 
 *Pure Canvas — Bringing creative room design ideas to life.*
